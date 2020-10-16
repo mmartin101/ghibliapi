@@ -37,9 +37,32 @@ Calling this resource will respond with the following object:
 ### Go
 - [totoro](https://github.com/Rchristiani/totoro) by [Ryan Christiani](https://github.com/Rchristiani)
 
+### GraphQL
+- [ghibliQL](https://github.com/kisscool-fr/ghibliql) by [Sebastien](https://github.com/kisscool-fr)
+
+### R
+- [ghibliapi](https://github.com/onertipaday/ghibliapi) by [Paolo](https://github.com/onertipaday)
+
+### Python2 and Python3
+- [python_studio_ghibli_api_sdk](https://github.com/Incognito/python_studio_ghibli_api_sdk) by [Incognito](https://github.com/Incognito)
+
+
 ## Examples
+### Swift (iOS)
+- https://github.com/kxvn-lx/Ghibliii
+
+### Android
+- https://github.com/txemasv/ghibli-films
+
 ### Haskell
 - https://github.com/janaipakos/ghibliapi-example
+
+### Datascript and Clojure
+- https://cjohansen.no/a-unified-specification/
+
+### JavaScript
+- https://github.com/mazipan/ghibli-fans
+- https://github.com/taniarascia/sandbox/tree/master/ghibli
 
 ## Resources
 This API was built using [JSON Server](https://github.com/typicode/json-server), [ReDoc](https://github.com/Rebilly/ReDoc), and looking through [swapi.co](https://github.com/phalt/swapi)
